@@ -11,6 +11,7 @@ Build and evaluate an image classification model capable of predicting the paint
 - eda: notebook for preprocessing, exploration, and data split
 - model_scratch: notebook for the CNN model built from scratch
 - pre_trained: notebook for transfer learning and pre-trained model training.
+- Group 6 Report
 
 ## Authors:
 Group 6, Nova IMS' university, 2025/2026
